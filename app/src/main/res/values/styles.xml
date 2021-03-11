@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    //guide lines
+    <style name="guide_line_style">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+    </style>
+
+    <style name="guide_line_style_horizontal" parent="guide_line_style">
+        <item name="android:orientation">horizontal</item>
+    </style>
+
+    <style name="guide_line_style_vertical" parent="guide_line_style">
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    //view
+    <style name="view_style">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+    </style>
+
+    //space
+
+    <style name="space_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">10dp</item>
+    </style>
+
+
+    //tv
+    <style name="tv_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="fontFamily">@font/barlow_regular</item>
+    </style>
+    <style name="tv_12sp_style" parent="tv_style">
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="tv_14sp_style" parent="tv_style">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="tv_18sp_style" parent="tv_style">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="city_name_style">
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+    </style>
+
+    <style name="iv_icons_style">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:adjustViewBounds">true</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Android3_L4_HW</string>
+    <string name="bishkek">Bishkek</string>
+    <string name="date">Sunday, 7 March 2021</string>
+    <string name="day">7 March</string>
+    <string name="slash">|</string>
+    <string name="time">4:30PM</string>
+    <string name="current_degree">33</string>
+    <string name="c">°C</string>
+    <string name="sunny">Sunny</string>
+    <string name="percent">%</string>
+    <string name="humidity">Humidity</string>
+    <string name="next_day">Mon, 21</string>
+    <string name="hr">h</string>
+    <string name="min">m</string>
+    <string name="pressure">Pressure</string>
+    <string name="mbar">mBar</string>
+    <string name="wind">Wind</string>
+    <string name="km_h"> km/h</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="daytime">Daytime</string>
+</resources>
