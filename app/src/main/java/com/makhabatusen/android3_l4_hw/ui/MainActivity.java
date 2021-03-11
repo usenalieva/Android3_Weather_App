@@ -10,8 +10,8 @@ import com.makhabatusen.android3_l4_hw.databinding.ActivityMainBinding;
 import com.makhabatusen.android3_l4_hw.model.WeatherByCity;
 import com.makhabatusen.android3_l4_hw.model.WeeklyReport;
 import com.makhabatusen.android3_l4_hw.remote.RetrofitBuilder;
-import com.makhabatusen.android3_l4_hw.weeklyReport.RecyclerDecoration;
-import com.makhabatusen.android3_l4_hw.weeklyReport.WeeklyReportAdapter;
+import com.makhabatusen.android3_l4_hw.ui.adapter.RecyclerDecoration;
+import com.makhabatusen.android3_l4_hw.ui.adapter.WeeklyReportAdapter;
 
 import java.text.DecimalFormat;
 import java.text.SimpleDateFormat;

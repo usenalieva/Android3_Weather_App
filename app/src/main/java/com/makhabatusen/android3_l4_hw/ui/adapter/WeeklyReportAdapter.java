@@ -1,4 +1,4 @@
-package com.makhabatusen.android3_l4_hw.weeklyReport;
+package com.makhabatusen.android3_l4_hw.ui.adapter;
 
 import android.view.LayoutInflater;
 import android.view.ViewGroup;
